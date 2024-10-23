@@ -27,7 +27,7 @@ En este caso, se utiliza el patrón Builder para construir una pizza, donde los 
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/patron-builder-pizza.git
+    https://github.com/mareFernando03/builderPattern.git
     ```
 
 2. Abre el proyecto en **Visual Studio** o en tu IDE de preferencia.
@@ -60,5 +60,17 @@ Elige los ingredientes:
 2. Pepperoni
 3. Vegetales
 3
-Has creado la siguiente pizza: Pizza con Masa fina, Salsa barbacoa y los siguientes ingredientes: Vegetales.
+Has creado la siguiente pizza: Pizza con masa Masa fina, salsa Salsa barbacoa y los siguientes ingredientes: Vegetales.
 ¡Gracias por usar el creador de pizzas!
+```
+
+## Presentación 🎥
+
+Puedes ver la presentación del **Patrón Builder** en el siguiente enlace:  
+[Presentación Patrón Builder](https://gamma.app/docs/Patron-de-Diseno-Builder-fqqrzq9vum8gp7o)
+
+## Contribuciones 🤝
+
+Si tienes sugerencias o mejoras para este proyecto, siéntete libre de hacer un **pull request** o abrir un **issue** en este repositorio.
+
+### ¡Diviértete creando tus pizzas personalizadas y aprendiendo sobre el patrón Builder! 🍕
